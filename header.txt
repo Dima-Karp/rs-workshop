@@ -1,4 +1,6 @@
 some text in header.txt
+changes from master
+change from first
 
-changes from master - new changes!!!
+text from master: new changes!!!
 
